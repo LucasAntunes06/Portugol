@@ -1,1 +1,2 @@
-# Algoritmos-1
+# Algoritmos
+Exercícios da matéria de Algoritmos
