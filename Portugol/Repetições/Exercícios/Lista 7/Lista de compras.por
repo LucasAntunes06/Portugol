@@ -6,9 +6,7 @@ programa
 		// Feito por Lucas e Igor
 		real pre, soma=0.00
 		cadeia prod
-		cadeia tabela = "+----------------------------
-+ Lista de compras
-+---------------------------- \n"
+		cadeia tabela = "+---------------------------+ Lista de compras+---------------------------- \n"
 		cadeia sn = "x"
 		enquanto(sn != "n"){
 			escreva("\n \nDigite o nome do produto: ")
@@ -40,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 859; 
+ * @POSICAO-CURSOR = 162; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
